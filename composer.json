@@ -18,7 +18,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Overtrue\\": "src/"
+            "Overtrue\\Dingtalk\\": "src/dingtalk",
+            "Overtrue\\Weixin\\": "src/weixin"
         }
     }
 }
